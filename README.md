@@ -1,0 +1,1 @@
+This repository contains all my learnings about the various languages of computer science and also the theories related to programming.
